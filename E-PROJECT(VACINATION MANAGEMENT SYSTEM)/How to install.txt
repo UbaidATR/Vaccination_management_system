@@ -1,0 +1,94 @@
+Hy it's me Ubaid ATR the developer of vaccination mangemnet system 
+here is how you can wrok with my project
+first of open the sql file named(vaccination_management_system) then copy the code and add it to your workbench.
+secondly open the theme folder then click on index.html for the next step here click on appointment to get signup/login...
+
+<<User key and login>>
+Admin Login>>
+Email>>obaidatr@gmail.com
+Password>>123
+
+>>> what is this  project 
+
+Introduction:>>
+In the existing system, Vaccines are provided for infants and children under teenage by various
+aspects such as by attending school manually and there is a chance that some of the children’s and
+infants may miss the opportunity of getting vaccinated due to some mandatory reasons. Which leads
+to loss of life or gets affected by various diseases such as polio… etc? This is a time delay process to
+wait for each and every one all over the places.
+
+Proposed Solution:>>
+We can change this manual system into e-vaccination system by collecting the info of infants,
+registered under website so that those who didn’t took vaccination can avail one more opportunity
+to save the life of their children . By this system a lot of man-hours can be saved and it is efficient
+too.
+System Modules: headline of the project>>
+Admin>>
+ All child details
+ Date &amp; time of vaccination
+ Report of vaccination
+o Child, Vaccination (Date wise report)
+ List of vaccine
+o available or unavailable
+ Request from parents
+o Approve or Reject
+ Add Hospital
+o Update/Delete Hospital
+ List of hospitals
+ Booking Details
+Parent>>
+ Register &amp; Login
+ Details of child
+ Vaccination Dates
+ Book Hospital
+ Request for hospital
+ Report of vaccination taken
+ My profile
+Hospital>>
+ Register &amp; Login
+ Update Vaccine status
+
+<<<Modules Description>>>
+Admin
+ All child details
+View all child profile details
+ Date of vaccination
+Upcoming Date of vaccination of all child
+ Report of vaccination
+Child, Vaccination (Date wise report)
+ List of vaccine
+ available or unavailable
+ Admin can view the availability of the vaccination
+ Request from parents
+ Approve or Reject
+ Once the request for appointment from parent side, it will be approved from the
+admin
+ Add Hospital
+ Admin can add the hospital details
+ Update/Delete Hospital
+ Admin can update or delete the hospital details
+ List of hospitals
+ Admin can view the hospital details
+ Booking Details
+ Admin can view the booking details from parent side for booking vaccination
+
+Parent>>
+ Details of child
+Update and maintain the child details of vaccination
+ Vaccination Dates
+Can get notified through in Dashboard of their respective accounts about upcoming
+vaccinations.
+ Book Hospital
+Use can search the list of hospital and book schedule for the vaccine dates
+ Report of vaccination taken
+Can get the report status of previous vaccination of their respective Infants
+
+Hospital>>
+
+ Register &amp; Login
+Can register and login into the app with hospital name, address and location details.
+ Update Vaccine status
+Hospital will receive the appointment once its booked from admin side. If
+vaccination is completed they will update the status to Vaccinated or not.
+
+So here is the complete guide for this projects that means for what purpose for this project made for 
