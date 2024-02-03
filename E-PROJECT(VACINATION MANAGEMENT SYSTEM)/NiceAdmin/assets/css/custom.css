@@ -1,0 +1,5 @@
+.trans_ {
+    transition-property: text-content;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
